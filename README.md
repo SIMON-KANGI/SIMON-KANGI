@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm SIMON MWANGI</h1>
 <h3 align="center">An Ambitious FullStack Software Developer</h3>
 
-- 🔭 I’m currently working on **Portfolio**
+- 🔭 I’m currently working on **REPAY**
 
 - 💬 Ask me about **React, JavaScript, Python**
 
