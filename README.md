@@ -9,8 +9,8 @@
   <img src="https://komarev.com/ghpvc/?username=simon-kangi&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 
-- 🔭 I’m currently exploring and building exciting projects in web development
-- 💬 Ask me about **React, JavaScript, TypeScript, Python**
+- 🔭 I’m currently exploring and building exciting projects in software development
+- 💬 Ask me about **Rust, JavaScript, TypeScript, Python**
 - 📫 How to reach me: **simonmwangikangi@gmail.com**
 - ⚡ Fun fact: I love turning complex problems into clean, scalable solutions
 
