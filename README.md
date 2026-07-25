@@ -1,70 +1,54 @@
-<p align="center">
-  <img src="https://leviarista.github.io/github-profile-header-generator/?name=Simon%20Mwangi&subtitle=Ambitious%20Full-Stack%20Developer&stats=true&theme=tokyonight" alt="Header Banner" />
-</p>
+<h1 align="center">Simon Mwangi</h1>
+<p align="center"><b>// Ambitious Full-Stack Developer</b></p>
 
-<h1 align="center">Hi 👋, I'm Simon Mwangi</h1>
-<h3 align="center">Ambitious Full-Stack Software Developer</h3>
+```bash
+$ whoami
+> Full-stack developer who turns complex problems into clean, scalable software.
+> Currently shipping with Rust, TypeScript & Python.
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=simon-kangi&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
-</p>
+➜ focus   building full-stack projects across web & systems
+➜ stack   Rust · JavaScript · TypeScript · Python
+➜ email   simonmwangikangi@gmail.com
+➜ fact    I love turning hard problems into clean solutions
+```
 
-- 🔭 I’m currently exploring and building exciting projects in software development
-- 💬 Ask me about **Rust, JavaScript, TypeScript, Python**
-- 📫 How to reach me: **simonmwangikangi@gmail.com**
-- ⚡ Fun fact: I love turning complex problems into clean, scalable solutions
-
-<h3 align="center">Connect with me:</h3>
-<p align="center">
-  <a href="https://twitter.com/simon_kangi" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="Twitter" />
-  </a>
-  <a href="https://www.linkedin.com/in/simon-mwangi-b22925200/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-</p>
-
-<h3 align="left">Tech Stack</h3>
+<h3>$ cat stack.json</h3>
 
 **Frontend**
-<p align="left">
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/> </a>
-  <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="Redux" width="40" height="40"/> </a>
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/> </a>
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind" width="40" height="40"/> </a>
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="40" height="40"/> </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/> </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/> </a>
-</p>
+
+![React](https://img.shields.io/badge/React-0d1117?style=for-the-badge&logo=react&logoColor=79c0ff)
+![TypeScript](https://img.shields.io/badge/TypeScript-0d1117?style=for-the-badge&logo=typescript&logoColor=79c0ff)
+![Redux](https://img.shields.io/badge/Redux-0d1117?style=for-the-badge&logo=redux&logoColor=79c0ff)
+![Tailwind](https://img.shields.io/badge/Tailwind-0d1117?style=for-the-badge&logo=tailwindcss&logoColor=79c0ff)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-0d1117?style=for-the-badge&logo=bootstrap&logoColor=79c0ff)
+![HTML5](https://img.shields.io/badge/HTML5-0d1117?style=for-the-badge&logo=html5&logoColor=79c0ff)
 
 **Backend & Databases**
-<p align="left">
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/> </a>
-  <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="Flask" width="40" height="40"/> </a>
-  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40"/> </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/> </a>
-  <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="SQLite" width="40" height="40"/> </a>
+
+![Python](https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=7ee787)
+![Flask](https://img.shields.io/badge/Flask-0d1117?style=for-the-badge&logo=flask&logoColor=7ee787)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0d1117?style=for-the-badge&logo=postgresql&logoColor=7ee787)
+![MySQL](https://img.shields.io/badge/MySQL-0d1117?style=for-the-badge&logo=mysql&logoColor=7ee787)
+![SQLite](https://img.shields.io/badge/SQLite-0d1117?style=for-the-badge&logo=sqlite&logoColor=7ee787)
+
+**Languages & Tools**
+
+![Rust](https://img.shields.io/badge/Rust-0d1117?style=for-the-badge&logo=rust&logoColor=ffa657)
+![Git](https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git&logoColor=ffa657)
+![Linux](https://img.shields.io/badge/Linux-0d1117?style=for-the-badge&logo=linux&logoColor=ffa657)
+
+<h3>$ git log --stat</h3>
+
+<p>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=simon-kangi&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=161b22&title_color=3fb950&text_color=c9d1d9&icon_color=58a6ff" alt="GitHub stats" />
+  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=simon-kangi&theme=tokyonight&hide_border=true&background=161b22&stroke=30363d&ring=3fb950&fire=ffa657&currStreakLabel=58a6ff" alt="Streak stats" />
+</p>
+<p>
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs?username=simon-kangi&layout=compact&theme=tokyonight&hide_border=true&bg_color=161b22&title_color=3fb950&text_color=c9d1d9" alt="Top languages" />
 </p>
 
-**Tools & Others**
-<p align="left">
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/> </a>
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/> </a>
-</p>
+<h3>$ connect</h3>
 
-<h3 align="center">GitHub Stats</h3>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=simon-kangi&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=simon-kangi&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=simon-kangi&theme=tokyonight" alt="Streak Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github.com/simon-kangi/simon-kangi/blob/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" />
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=1000&color=7F7F7F&center=true&vCenter=true&width=500&lines=Full-Stack+Developer;React+%7C+TypeScript+%7C+Python;Lifelong+Learner;Building+the+future%2C+one+line+at+a+time!" alt="Typing SVG" />
-</p>
+[![Twitter](https://img.shields.io/badge/Twitter-0d1117?style=for-the-badge&logo=twitter&logoColor=58a6ff)](https://twitter.com/simon_kangi)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=58a6ff)](https://www.linkedin.com/in/simon-mwangi-b22925200/)
+[![Email](https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=58a6ff)](mailto:simonmwangikangi@gmail.com)
