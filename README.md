@@ -40,7 +40,7 @@ $ whoami
 ![Docker](https://img.shields.io/badge/Docker-0d1117?style=for-the-badge&logo=docker&logoColor=ffa657)
 ![Git](https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git&logoColor=ffa657)
 ![Linux](https://img.shields.io/badge/Linux-0d1117?style=for-the-badge&logo=linux&logoColor=ffa657)
-
+![Claude](https://img.shields.io/badge/claude-0d1117?style=for-the-badge&logo=claude&logoColor=ffa657)
 <h3>$ git log --stat</h3>
 
 <p>
