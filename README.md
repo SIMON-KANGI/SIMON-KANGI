@@ -26,9 +26,9 @@ $ whoami
 **Backend & Databases**
 
 ![Python](https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=7ee787)
-![JavaScript](https://img.shields.io/badge/JavaScript-0d1117?style=for-the-badge&logo=python&logoColor=7ee787)
-![NodeJs](https://img.shields.io/badge/NodeJs-0d1117?style=for-the-badge&logo=python&logoColor=7ee787)
-![MongoDatabase](https://img.shields.io/badge/MongoDatabase-0d1117?style=for-the-badge&logo=python&logoColor=7ee787)
+![JavaScript](https://img.shields.io/badge/JavaScript-0d1117?style=for-the-badge&logo=javascript&logoColor=7ee787)
+![NodeJs](https://img.shields.io/badge/NodeJs-0d1117?style=for-the-badge&logo=nodejs&logoColor=7ee787)
+![MongoDatabase](https://img.shields.io/badge/MongoDatabase-0d1117?style=for-the-badge&logo=mongodb&logoColor=7ee787)
 ![Flask](https://img.shields.io/badge/Flask-0d1117?style=for-the-badge&logo=flask&logoColor=7ee787)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0d1117?style=for-the-badge&logo=postgresql&logoColor=7ee787)
 ![MySQL](https://img.shields.io/badge/MySQL-0d1117?style=for-the-badge&logo=mysql&logoColor=7ee787)
