@@ -1,12 +1,12 @@
 <div align="center">
 
 ```
-███╗   ███╗  █████╗  ██████╗ ██████╗  ██████╗ ██╗  ██╗
-████╗ ████║ ██╔══██╗██╔════╝ ╚════██╗██╔════╝ ██║  ██║
-██╔████╔██║ ███████║██║      █████╔╝██║  ███╗███████║
-██║╚██╔╝██║ ██╔══██║██║     ██╔═══╝ ██║   ██║╚════██║
-██║ ╚═╝ ██║ ██║  ██║╚██████╗███████╗╚██████╔╝     ██║
-╚═╝     ╚═╝ ╚═╝  ╚═╝ ╚═════╝╚══════╝ ╚═════╝      ╚═╝
+███████╗ ██╗ ███╗   ███╗  ██████╗  ███╗   ██╗
+██╔════╝ ██║ ████╗ ████║ ██╔═══██╗ ████╗  ██║
+███████╗ ██║ ██╔████╔██║ ██║   ██║ ██╔██╗ ██║
+╚════██║ ██║ ██║╚██╔╝██║ ██║   ██║ ██║╚██╗██║
+███████║ ██║ ██║ ╚═╝ ██║ ╚██████╔╝ ██║ ╚████║
+╚══════╝ ╚═╝ ╚═╝     ╚═╝  ╚═════╝  ╚═╝  ╚═══╝
 ```
 
 ### Simon Mwangi
@@ -153,11 +153,11 @@ Framework-agnostic primitives authored once in Lit (Web Components) and consumed
 ## GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=Mac254&hide_border=true&theme=tokyonight" />
+  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=SIMON-KANGI&hide_border=true&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mac254&theme=tokyo-night&hide_border=true" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SIMON-KANGI&theme=tokyo-night&hide_border=true" width="100%" />
 </p>
 
 <br>
