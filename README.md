@@ -1,7 +1,26 @@
-<h1 align="center">Simon Mwangi</h1>
-<p align="center"><b>// Ambitious Full-Stack Developer</b></p>
+<div align="center">
 
-```bash
+```
+███╗   ███╗  █████╗  ██████╗ ██████╗  ██████╗ ██╗  ██╗
+████╗ ████║ ██╔══██╗██╔════╝ ╚════██╗██╔════╝ ██║  ██║
+██╔████╔██║ ███████║██║      █████╔╝██║  ███╗███████║
+██║╚██╔╝██║ ██╔══██║██║     ██╔═══╝ ██║   ██║╚════██║
+██║ ╚═╝ ██║ ██║  ██║╚██████╗███████╗╚██████╔╝     ██║
+╚═╝     ╚═╝ ╚═╝  ╚═╝ ╚═════╝╚══════╝ ╚═════╝      ╚═╝
+```
+
+### Simon Mwangi
+
+[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&size=18&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Interfaces+That+Tell+A+Story;Frontend+Engineer+%7C+UI+Systems;Motion%2C+Emotion%2C+Performance;Building+Interfaces+That+Scale)](https://git.io/typing-svg)
+
+[![Email](https://img.shields.io/badge/Email-mburustephen167%40gmail.com-6C63FF?style=flat-square&logo=gmail&logoColor=white)](mailto:mburustephen167@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Stephen%20Mburu-6C63FF?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/stephen-mburu-5330a5222/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-mac254.dev-6C63FF?style=flat-square&logo=vercel&logoColor=white)](https://mac254.dev)
+
+</div>
+
+<br>
+
 $ whoami
 > Full-stack developer who turns complex problems into clean, scalable software.
 > Currently shipping with Rust, TypeScript & Python.
@@ -10,49 +29,145 @@ $ whoami
 ➜ stack   Rust · JavaScript · TypeScript · Python
 ➜ email   simonmwangikangi@gmail.com
 ➜ fact    I love turning hard problems into clean solutions
+
+```txt
+const stephen = {
+  role: "FullStack Developer",
+  focus: ["Component Architecture", "Design Systems", "Performance"],
+  frameworks: ["React", "Vue", "Angular", "Svelte", "Lit","Express","Hono",],
+  Devops: ["Nginx", "Docker", "Terraform", "PM2","Github Actions","Jenkins"],
+  backend: ["Node.js", "Bun", "Express", "Redis"],
+  domains: ["Finance systems", "Automotive platforms", "AI web apps"],
+  openTo: "UI-heavy web apps & open-source frontend collaboration",
+};
 ```
 
-<h3>$ cat stack.json</h3>
+<br>
 
-**Frontend**
+## Core Expertise
 
-![React](https://img.shields.io/badge/React-0d1117?style=for-the-badge&logo=react&logoColor=79c0ff)
-![TypeScript](https://img.shields.io/badge/TypeScript-0d1117?style=for-the-badge&logo=typescript&logoColor=79c0ff)
-![Redux](https://img.shields.io/badge/Redux-0d1117?style=for-the-badge&logo=redux&logoColor=79c0ff)
-![Tailwind](https://img.shields.io/badge/Tailwind-0d1117?style=for-the-badge&logo=tailwindcss&logoColor=79c0ff)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-0d1117?style=for-the-badge&logo=bootstrap&logoColor=79c0ff)
-![HTML5](https://img.shields.io/badge/HTML5-0d1117?style=for-the-badge&logo=html5&logoColor=79c0ff)
+| Area | Detail |
+|---|---|
+| **Component Architecture** | Design-token-driven systems; primitives built once, composed across features rather than duplicated per screen |
+| **Narrative UX** | Motion, pacing, and micro-interaction used deliberately — interfaces that feel considered, not just functional |
+| **Cross-Framework UI** | Web Components (Lit) as a shared base layer, consumed natively by React, Vue, Angular and Svelte |
+| **State Management** | Redux for predictable large-app state, Zustand where a lighter store fits the problem better |
+| **Motion & Interaction** | GSAP for complex timeline-driven animation, Lenis for smooth-scroll and scroll-linked effects |
+| **Full-Stack Capability** | Node.js/Express APIs backed by Redis — frontend engineers who can also own the service layer |
+| **Accessibility** | Semantic HTML, keyboard navigation, and ARIA patterns built at the component level, not patched on after |
+| **Performance** | Bundle-size discipline, code-splitting, and render-path awareness across React, Vue, and Svelte builds |
 
-**Backend & Databases**
+<br>
 
-![Python](https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=7ee787)
-![JavaScript](https://img.shields.io/badge/JavaScript-0d1117?style=for-the-badge&logo=javascript&logoColor=7ee787)
-![NodeJs](https://img.shields.io/badge/NodeJs-0d1117?style=for-the-badge&logo=node.js&logoColor=7ee787)
-![MongoDatabase](https://img.shields.io/badge/MongoDatabase-0d1117?style=for-the-badge&logo=mongodb&logoColor=7ee787)
-![Flask](https://img.shields.io/badge/Flask-0d1117?style=for-the-badge&logo=flask&logoColor=7ee787)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0d1117?style=for-the-badge&logo=postgresql&logoColor=7ee787)
-![MySQL](https://img.shields.io/badge/MySQL-0d1117?style=for-the-badge&logo=mysql&logoColor=7ee787)
-![SQLite](https://img.shields.io/badge/SQLite-0d1117?style=for-the-badge&logo=sqlite&logoColor=7ee787)
-![Rust](https://img.shields.io/badge/Rust-0d1117?style=for-the-badge&logo=rust&logoColor=ffa657)
-**Languages & Tools**
+## Tech Stack
 
-![Nginx](https://img.shields.io/badge/Nginx-0d1117?style=for-the-badge&logo=nginx&logoColor=ffa657)
-![Docker](https://img.shields.io/badge/Docker-0d1117?style=for-the-badge&logo=docker&logoColor=ffa657)
-![Git](https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git&logoColor=ffa657)
-![Linux](https://img.shields.io/badge/Linux-0d1117?style=for-the-badge&logo=linux&logoColor=ffa657)
-![Claude](https://img.shields.io/badge/claude-0d1117?style=for-the-badge&logo=claude&logoColor=ffa657)
-<h3>$ git log --stat</h3>
-
+**Frameworks & Meta-frameworks**
 <p>
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=simon-kangi&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=161b22&title_color=3fb950&text_color=c9d1d9&icon_color=58a6ff" alt="GitHub stats" />
-  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=simon-kangi&theme=tokyonight&hide_border=true&background=161b22&stroke=30363d&ring=3fb950&fire=ffa657&currStreakLabel=58a6ff" alt="Streak stats" />
-</p>
-<p>
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs?username=simon-kangi&layout=compact&theme=tokyonight&hide_border=true&bg_color=161b22&title_color=3fb950&text_color=c9d1d9" alt="Top languages" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Svelte-FF3E00?style=for-the-badge&logo=svelte&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
+  <img src="https://img.shields.io/badge/Nuxt-00DC82?style=for-the-badge&logo=nuxtdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Astro-BC52EE?style=for-the-badge&logo=astro&logoColor=white" />
+  <img src="https://img.shields.io/badge/Lit-324FFF?style=for-the-badge&logo=lit&logoColor=white" />
 </p>
 
-<h3>$ connect</h3>
+**Languages & Styling**
+<p>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+</p>
 
-[![Twitter](https://img.shields.io/badge/Twitter-0d1117?style=for-the-badge&logo=twitter&logoColor=58a6ff)](https://twitter.com/simon_kangi)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=58a6ff)](https://www.linkedin.com/in/simon-mwangi-b22925200/)
-[![Email](https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=58a6ff)](mailto:simonmwangikangi@gmail.com)
+**Devops & MLOPS**
+<p>
+  <img src="https://img.shields.io/badge/Docker-764ABC?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Nginx-433E38?style=for-the-badge&logo=nginx&logoColor=white" />
+  <img src="https://img.shields.io/badge/Github-Actions-88CE02?style=for-the-badge&logo=greensock&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jenkins-000000?style=for-the-badge" />
+</p>
+
+**Backend & Tooling**
+<p>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bun-000000?style=for-the-badge&logo=bun&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
+</p>
+
+<br>
+
+## Featured Work
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🚗 PrimeAuto
+**Automotive Platform**
+
+Svelte-based frontend built around reactive stores instead of prop-drilling, with Vite for fast HMR during vehicle-listing filter iteration. Layout is grid-driven and breakpoint-tested for the dense data views automotive listings need.
+
+`Svelte` `CSS` `JavaScript` `Vite`
+
+[Source](https://github.com/Mac254/Primeauto)
+<!-- Add live demo link once deployed -->
+
+</td>
+<td width="50%" valign="top">
+
+### 🤖 BookAI
+**AI Web Application**
+
+Reading assistant wiring an AI backend into a vanilla JS frontend — no framework overhead, direct DOM state management, and async UI states (loading/error/streaming) handled explicitly rather than left implicit.
+
+`HTML` `CSS` `JavaScript` `AI Integration`
+
+[Source](https://github.com/Mac254/BookAI)
+<!-- Add live demo link once deployed -->
+
+</td>
+</tr>
+<tr>
+<td colspan="2" valign="top">
+
+### 🎨 DarkMatter UI
+**Component Library**
+
+Framework-agnostic primitives authored once in Lit (Web Components) and consumed natively across React, Vue, Angular and Svelte — no per-framework reimplementation. Design tokens drive theming via CSS variables; Storybook covers every state per component.
+
+`Web Components` `TypeScript` `Storybook` `CSS Variables`
+
+[Source](https://github.com/Mac254/DarkMatter-UI)
+<!-- Add docs link once published -->
+
+</td>
+</tr>
+</table>
+
+<br>
+
+## GitHub Stats
+
+<p align="center">
+  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=Mac254&hide_border=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mac254&theme=tokyo-night&hide_border=true" width="100%" />
+</p>
+
+<br>
+
+<div align="center">
+
+**Let's build something.**
+
+[![Email](https://img.shields.io/badge/Email-mburustephen167%40gmail.com-6C63FF?style=flat-square&logo=gmail&logoColor=white)](mailto:mburustephen167@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Stephen%20Mburu-6C63FF?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/stephen-mburu-5330a5222/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-mac254.dev-6C63FF?style=flat-square&logo=vercel&logoColor=white)](https://mac254.dev)
+
+</div>
