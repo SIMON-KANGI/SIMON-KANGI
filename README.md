@@ -168,6 +168,6 @@ Framework-agnostic primitives authored once in Lit (Web Components) and consumed
 
 [![Email](https://img.shields.io/badge/Email-simonmwangikangi@gmail.com-6C63FF?style=flat-square&logo=gmail&logoColor=white)](mailto:simonmwangikangi@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Simon-Mwangi-6C63FF?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/simon-mwangi-5330a5222/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-mac254.dev-6C63FF?style=flat-square&logo=vercel&logoColor=white)](https://mac254.dev)
+[![Portfolio](https://portfolio-mu-five-65.vercel.app.dev-6C63FF?style=flat-square&logo=vercel&logoColor=white)](https://simon-kangi.dev)
 
 </div>
