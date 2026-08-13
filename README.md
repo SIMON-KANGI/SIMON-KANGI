@@ -13,8 +13,8 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&size=18&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Interfaces+That+Tell+A+Story;Frontend+Engineer+%7C+UI+Systems;Motion%2C+Emotion%2C+Performance;Building+Interfaces+That+Scale)](https://git.io/typing-svg)
 
-[![Email](https://img.shields.io/badge/Email-mburustephen167%40gmail.com-6C63FF?style=flat-square&logo=gmail&logoColor=white)](mailto:mburustephen167@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Stephen%20Mburu-6C63FF?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/stephen-mburu-5330a5222/)
+[![Email](https://img.shields.io/badge/Email-simonmwangikangi@gmail.com-6C63FF?style=flat-square&logo=gmail&logoColor=white)](mailto:mburustephen167@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-SimonMwangi-6C63FF?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/stephen-mburu-5330a5222/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-mac254.dev-6C63FF?style=flat-square&logo=vercel&logoColor=white)](https://mac254.dev)
 
 </div>
@@ -166,8 +166,8 @@ Framework-agnostic primitives authored once in Lit (Web Components) and consumed
 
 **Let's build something.**
 
-[![Email](https://img.shields.io/badge/Email-mburustephen167%40gmail.com-6C63FF?style=flat-square&logo=gmail&logoColor=white)](mailto:mburustephen167@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Stephen%20Mburu-6C63FF?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/stephen-mburu-5330a5222/)
+[![Email](https://img.shields.io/badge/Email-simonmwangikangi@gmail.com-6C63FF?style=flat-square&logo=gmail&logoColor=white)](mailto:simonmwangikangi@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Simon-Mwangi-6C63FF?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/simon-mwangi-5330a5222/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-mac254.dev-6C63FF?style=flat-square&logo=vercel&logoColor=white)](https://mac254.dev)
 
 </div>
