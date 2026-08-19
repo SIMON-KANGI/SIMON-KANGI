@@ -108,12 +108,7 @@ const stephen = {
 <tr>
 <td width="50%" valign="top">
 
-### 🚗 PrimeAuto
-**Automotive Platform**
 
-Svelte-based frontend built around reactive stores instead of prop-drilling, with Vite for fast HMR during vehicle-listing filter iteration. Layout is grid-driven and breakpoint-tested for the dense data views automotive listings need.
-
-`Svelte` `CSS` `JavaScript` `Vite`
 
 [Source](https://github.com/Mac254/Primeauto)
 <!-- Add live demo link once deployed -->
@@ -121,30 +116,12 @@ Svelte-based frontend built around reactive stores instead of prop-drilling, wit
 </td>
 <td width="50%" valign="top">
 
-### 🤖 BookAI
-**AI Web Application**
-
-Reading assistant wiring an AI backend into a vanilla JS frontend — no framework overhead, direct DOM state management, and async UI states (loading/error/streaming) handled explicitly rather than left implicit.
-
-`HTML` `CSS` `JavaScript` `AI Integration`
-
-[Source](https://github.com/Mac254/BookAI)
-<!-- Add live demo link once deployed -->
 
 </td>
 </tr>
 <tr>
 <td colspan="2" valign="top">
 
-### 🎨 DarkMatter UI
-**Component Library**
-
-Framework-agnostic primitives authored once in Lit (Web Components) and consumed natively across React, Vue, Angular and Svelte — no per-framework reimplementation. Design tokens drive theming via CSS variables; Storybook covers every state per component.
-
-`Web Components` `TypeScript` `Storybook` `CSS Variables`
-
-[Source](https://github.com/Mac254/DarkMatter-UI)
-<!-- Add docs link once published -->
 
 </td>
 </tr>
