@@ -31,12 +31,12 @@ $ whoami
 ➜ fact    I love turning hard problems into clean solutions
 
 ```txt
-const stephen = {
+const simon = {
   role: "FullStack Developer",
   focus: ["Component Architecture", "Design Systems", "Performance"],
   frameworks: ["React", "Vue", "Angular", "Svelte", "Lit","Express","Hono",],
   Devops: ["Nginx", "Docker", "Terraform", "PM2","Github Actions","Jenkins"],
-  backend: ["Node.js", "Bun", "Express", "Redis"],
+  backend: ["Node.js", "Bun", "Express", "Redis","GO","PYTHON", "RUST"],
   domains: ["Finance systems", "Automotive platforms", "AI web apps"],
   openTo: "UI-heavy web apps & open-source frontend collaboration",
 };
@@ -110,7 +110,7 @@ const stephen = {
 
 
 
-[Source](https://github.com/Mac254/Primeauto)
+
 <!-- Add live demo link once deployed -->
 
 </td>
