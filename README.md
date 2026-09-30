@@ -15,7 +15,7 @@
 
 [![Email](https://img.shields.io/badge/Email-simonmwangikangi@gmail.com-6C63FF?style=flat-square&logo=gmail&logoColor=white)](mailto:mburustephen167@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-SimonMwangi-6C63FF?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/stephen-mburu-5330a5222/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-mac254.dev-6C63FF?style=flat-square&logo=vercel&logoColor=white)](https://portfolio-mu-five-65.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-simon.dev-6C63FF?style=flat-square&logo=vercel&logoColor=white)](https://portfolio-mu-five-65.vercel.app/)
 
 </div>
 
