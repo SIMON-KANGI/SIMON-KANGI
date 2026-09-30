@@ -96,41 +96,13 @@ const simon = {
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/Bun-000000?style=for-the-badge&logo=bun&logoColor=white" />
   <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" />
-   <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=hono&logoColor=white" />
+   <img src="https://img.shields.io/badge/Hono-000000?style=for-the-badge&logo=hono&logoColor=white" />
   <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
   <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
 </p>
 
 <br>
 
-## Featured Work
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-
-
-
-<!-- Add live demo link once deployed -->
-
-</td>
-<td width="50%" valign="top">
-
-
-</td>
-</tr>
-<tr>
-<td colspan="2" valign="top">
-
-
-</td>
-</tr>
-</table>
-
-<br>
-
-## GitHub Stats
 
 
 
